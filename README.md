@@ -1,7 +1,7 @@
 ![Jelly Shader Preview](1116(1).gif)
-# Jelly-Lava-Shader
+# JellyHorns-Lava-Shader
 Procedural jelly shader with a lava lamp effect for Unity
-🍓 Jelly-Lava Shader
+🍓 JellyHorns-Lava Shader
 
 A customizable procedural jelly shader for stylized 3D characters and VTuber models.
 
